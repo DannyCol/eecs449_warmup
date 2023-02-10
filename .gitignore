@@ -1,2 +1,5 @@
 env
 html
+*_model
+*.jir
+*.session
