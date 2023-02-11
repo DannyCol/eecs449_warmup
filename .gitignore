@@ -1,5 +1,5 @@
-env
-html
+env/
+html/
 *_model
 *.jir
 *.session
