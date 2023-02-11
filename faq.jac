@@ -1,4 +1,4 @@
-import {*} with ".dialogue.jac";
+import {*} with "./dialogue.jac";
 
 node faq_root:cai_state {
     can use.qa_classify;
